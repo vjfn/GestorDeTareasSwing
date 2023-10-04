@@ -30,6 +30,7 @@
                 <constraints/>
                 <properties>
                   <columns value="12"/>
+                  <text value="victor"/>
                 </properties>
               </component>
             </children>
@@ -51,6 +52,7 @@
                 <constraints/>
                 <properties>
                   <columns value="12"/>
+                  <text value="1234"/>
                 </properties>
               </component>
             </children>

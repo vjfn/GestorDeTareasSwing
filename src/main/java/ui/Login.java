@@ -34,7 +34,9 @@ public class Login extends JFrame {
             txtUsuario.setText(" ");
             passwordField1.setText(" ");
         }else {
-            // TODO: ir a la ventana
+            this.dispose();
+            Principal ventana = new Principal();
+            ventana.load();
         };
     }
 
